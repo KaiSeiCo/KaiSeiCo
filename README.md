@@ -1,9 +1,5 @@
 <div ailgn="center"> <img src="https://catblogoss.oss-cn-guangzhou.aliyuncs.com/github/genshin.jpg?versionId=CAEQKRiBgIDEocTVnRgiIDY1ZWI1YmNjMmI2YzRjMzNhODVjODhmOGQ5NGY2M2M1" /></div>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div> 
-
 ### <div align="center">I'm KaiSeiCo, a backend developer 👨‍💻 enjoy coding and drawing 🚀</div>  
   
 
